@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marianeprado/static/css/main.43fbee50.chunk.css",
+    "main.css": "/marianeprado/static/css/main.c2ec8089.chunk.css",
     "main.js": "/marianeprado/static/js/main.2e2867c9.chunk.js",
     "main.js.map": "/marianeprado/static/js/main.2e2867c9.chunk.js.map",
     "runtime-main.js": "/marianeprado/static/js/runtime-main.d0194999.js",
@@ -8,14 +8,14 @@
     "static/js/2.02854f5c.chunk.js": "/marianeprado/static/js/2.02854f5c.chunk.js",
     "static/js/2.02854f5c.chunk.js.map": "/marianeprado/static/js/2.02854f5c.chunk.js.map",
     "index.html": "/marianeprado/index.html",
-    "static/css/main.43fbee50.chunk.css.map": "/marianeprado/static/css/main.43fbee50.chunk.css.map",
+    "static/css/main.c2ec8089.chunk.css.map": "/marianeprado/static/css/main.c2ec8089.chunk.css.map",
     "static/js/2.02854f5c.chunk.js.LICENSE.txt": "/marianeprado/static/js/2.02854f5c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/marianeprado/static/media/image8.bfeb4d3e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0194999.js",
     "static/js/2.02854f5c.chunk.js",
-    "static/css/main.43fbee50.chunk.css",
+    "static/css/main.c2ec8089.chunk.css",
     "static/js/main.2e2867c9.chunk.js"
   ]
 }
